@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="test_access_manager_tests.TestAccessManager-20210418131910" tests="4" file="test_access_manager_tests.py" time="0.021" timestamp="2021-04-18T13:19:11" failures="0" errors="0" skipped="0">
+	<testcase classname="test_access_manager_tests.TestAccessManager" name="test_comprobar_keys_correcta_1" time="0.014" timestamp="2021-04-18T13:19:11"/>
+	<testcase classname="test_access_manager_tests.TestAccessManager" name="test_comprobar_keys_correcta_2" time="0.002" timestamp="2021-04-18T13:19:11"/>
+	<testcase classname="test_access_manager_tests.TestAccessManager" name="test_comprobar_keys_incorrectos_1" time="0.003" timestamp="2021-04-18T13:19:11"/>
+	<testcase classname="test_access_manager_tests.TestAccessManager" name="test_comprobar_keys_incorrectos_2" time="0.002" timestamp="2021-04-18T13:19:11"/>
+</testsuite>
